@@ -8,7 +8,7 @@
 игнорировать вывод команды: terraform plan -out = tfplan
 
 Игнорировать конфигурационные файлы CLI;
-
+Домашнее задание к занятию «2.4. Инструменты Git»
 1) Нашел с помощью команды git log aefea --oneline
 выдал неполный хеш с комитом "aefead220 Update CHANGELOG.md"
 затем с помощью git log aefead220
